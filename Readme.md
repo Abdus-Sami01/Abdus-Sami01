@@ -12,8 +12,8 @@
 
 <!-- Profile Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-Abdus--Sami01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdus-Sami01)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-00d4ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20beff?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-00d4ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadabdulsami7@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20beff?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/muhammadabdulsami)
 [![Profile Views](https://komarev.com/ghpvc/?username=Abdus-Sami01&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/Abdus-Sami01)
 
 </div>
