@@ -113,7 +113,7 @@ A VSCode extension that reviews code in real-time using Hugging Face models for 
 ### 📐 AI Math Tutor App
 > *Flask Web App | NLP | Education AI*
 
-An interactive web application that solves and explains math problems from basic arithmetic to advanced calculus, with step-by-step visualization and a chatbot interface.
+An interactive web application that solves and explains math problems from basic arithmetic to advanced calculus, and a chatbot interface.
 
 `Flask` `HTML` `Data Visualization` `NLP` `Transfer Learning`
 
