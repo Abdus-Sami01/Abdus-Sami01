@@ -116,8 +116,14 @@ Anomaly detection, medical-image classification, NLP, recommendation systems, YO
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abdus-Sami01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0e9ff"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdus-Sami01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0e9ff"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdus-Sami01&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=a0e9ff" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=Abdus-Sami01&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=a0e9ff" alt="streak"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Abdus-Sami01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
+
+<br/><br/>
+
+**📬 Open to** research collaborations in neuro-symbolic AI & LLM verification · AI/ML engineering roles · [reach out](mailto:muhammadabdulsami7@gmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer"/>
 
 </div>
