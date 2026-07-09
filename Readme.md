@@ -36,7 +36,7 @@ There's a class of LLM hallucination that fact-checkers can't see: every claim l
 
 <br/>
 
-> **AXPEN — Formally Constrained Autonomous Penetration Testing via Neuro-Symbolic RL** · *preprint, 2026*
+> **AXPEN — Formally Constrained Autonomous Penetration Testing via Neuro-Symbolic RL** · *preprint, 2026* · [code](https://github.com/Abdus-Sami01/RL_Guided_Pentesting)
 
 <img src="https://raw.githubusercontent.com/Abdus-Sami01/RL_Guided_Pentesting/main/paper/figures/animations/anim8_hero_banner.gif" width="90%" alt="AXPEN — an LLM-built, Z3-verified action mask driving a GraphSAGE PPO policy across an unseen network"/>
 
@@ -48,7 +48,7 @@ RL pentesting agents memorise the network they trained on and fall apart when it
 
 ## 🚀 Featured Projects
 
-### 🔎 Nexus-Insight — a research agent that fact-checks itself
+### 🔎 [Nexus-Insight](https://github.com/Abdus-Sami01/nexus-insight) — a research agent that fact-checks itself
 An 11-node LangGraph pipeline that runs a 4-phase **Chain-of-Verification**: it atomises a claim, gathers evidence across the web, PDFs, arXiv and PubMed, then pits a **Proposer against a Skeptic** to resolve contradictions. Local PII redaction, token budgeting, circuit breakers, and Groq/Ollama routing. Runs in Docker.
 `LangGraph` `FastAPI` `RAG` `Groq` `Ollama`
 
@@ -61,13 +61,13 @@ A Transformer that reads a **frontal + lateral** X-ray and writes a structured r
 
 `TensorFlow` `Bio_ClinicalBERT` `CheXNet` `Grad-CAM` `RadGraph`
 
-### 🧩 MuaLLM — a language model from scratch
-An 8M-parameter model built from the tokenizer up: BPE, masked-language pretraining, a span head for QA — trained on **CPU**. Then I swapped in three attention kernels (**softmax, linear, RWKV**) to measure the subquadratic accuracy/speed trade-off head-to-head.
-`PyTorch` `RWKV` `Linear attention`
+### 🧩 [MuaLLM](https://github.com/Abdus-Sami01/MuaLLM) — a language model from scratch
+A ~20M-parameter decoder-only LM built from the tokenizer up, then taught to chat by **distilling a local open-weight teacher** (top-k logit KD from SmolLM2) — no paid APIs, hobbyist compute. Four swappable attention kernels (**softmax, linear, RWKV, Mamba-2**) benchmarked head-to-head on identical everything-else.
+`PyTorch` `Knowledge distillation` `RWKV` `Mamba`
 
-### 🤖 Codesage-AI — AI code review in your editor
-A VS Code extension that reviews your code with Hugging Face models as you write — linting and optimization hints inline.
-`JavaScript` `VS Code API` `Hugging Face`
+### 🤖 [CodeSage AI](https://github.com/Abdus-Sami01/codesage-ai) — AI code review in your editor
+A **published VS Code extension** ([Marketplace](https://marketplace.visualstudio.com/items?itemName=SamiullahAtta.codesage-ai)) that streams expert code reviews — security audits, performance tuning, bug checks — inline as you write, powered by DeepSeek.
+`TypeScript` `VS Code API` `DeepSeek`
 
 ---
 
